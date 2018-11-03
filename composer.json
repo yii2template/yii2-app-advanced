@@ -14,8 +14,8 @@
     },
     "minimum-stability": "stable",
     "require": {
-        "yii2lab/yii2-app": "dev-master",
-		"yii2lab/yii2-extension": "dev-master"
+        "yii2lab/yii2-app": "1.38.*",
+		"yii2lab/yii2-extension": "0.36.*"
     },
     "require-dev": {
         "yiisoft/yii2-debug": "~2.0.0",
